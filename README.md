@@ -42,10 +42,10 @@
   <a href="Uriel olguin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="uriel.olg" target="_blank">
+  <a href="https://www.instagram.com/uriel.olg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="uriel.olg">
+  <a href="https://www.threads.com/uriel.olg">
     <img src="https://simpleicons.org/icons/threads.svg" width="52" height="40" alt="threads logo"</a>
     
 </div>
