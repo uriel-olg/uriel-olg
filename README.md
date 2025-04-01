@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde 27/10/2002<br>📚 Actualmente estoy en el camino del FrontEnd<br>🎯 Metas: seguir creciendo,colaborar con un buen equipo y dar luz a grandes ideas<br>☕me gusta el cafe</p>
+<p align="left">✨ Creando bugs desde 27/10/2002<br>📚 Actualmente estoy en el camino del FrontEnd<br>🎯 Metas: seguir creciendo,crear un gran equipo y dar luz a grandes ideas<br>☕me gusta el cafe</p>
 
 ###
 
